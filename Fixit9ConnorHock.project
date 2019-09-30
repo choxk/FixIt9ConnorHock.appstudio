@@ -41,6 +41,22 @@
             "membership", 
             "membership.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculator", 
+            "calculator.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "twoControls", 
+            "twoControls.json"
+          ]
         }
       ], 
       "configxml": null, 
