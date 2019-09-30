@@ -22,6 +22,14 @@
           "!type": "External", 
           "file": [
             "forms", 
+            "calculator", 
+            "calculator.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
             "login", 
             "login.json"
           ]
@@ -46,14 +54,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "calculator", 
-            "calculator.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "twoControls", 
             "twoControls.json"
           ]
@@ -63,7 +63,7 @@
       "contentSecurityPolicy": "", 
       "copyright": "Copyright 2019 ABC Company", 
       "dashboardAccess": false, 
-      "defaultformsize": "320x460", 
+      "defaultformsize": "1280x800", 
       "description": "", 
       "enableAppScroll": "false", 
       "enableBrowserArrows": "false", 
@@ -73,7 +73,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "login", 
+      "firstform": "calculator", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 
