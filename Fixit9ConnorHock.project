@@ -22,14 +22,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "calculator", 
-            "calculator.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "login", 
             "login.json"
           ]
@@ -48,6 +40,14 @@
             "forms", 
             "membership", 
             "membership.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "calculator", 
+            "calculator.json"
           ]
         }, 
         {
@@ -73,7 +73,7 @@
       "exetitle": "", 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "calculator", 
+      "firstform": "login", 
       "fontFamily": "system", 
       "height": "", 
       "homescreenTitle": "", 

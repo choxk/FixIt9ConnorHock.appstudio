@@ -9,10 +9,56 @@
   "borderWidth": "", 
   "cached_js": null, 
   "cached_js_script_hash": null, 
-  "children": [], 
+  "children": [
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "drpdwn.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "Label1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "jmbControl.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblControl.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "pgnA.json"
+      ]
+    }
+  ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 460, 
+  "designWidth": 320, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 

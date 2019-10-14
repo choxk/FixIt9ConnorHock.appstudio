@@ -24,7 +24,7 @@
   "fontWeight": "", 
   "footer": "", 
   "header": "First Number", 
-  "headerCols": 2, 
+  "headerCols": 3, 
   "height": 104, 
   "hidden": "", 
   "icon": "", 
@@ -65,7 +65,7 @@
   "pLeft": "", 
   "pRight": "", 
   "pTop": "", 
-  "placeholder": "Enter first number here...", 
+  "placeholder": "Enter first number...", 
   "popBody": "Body", 
   "popClose": "hover", 
   "popPosition": "", 
@@ -83,6 +83,6 @@
   "top": 24, 
   "validation": "", 
   "value": "", 
-  "valueCols": 10, 
+  "valueCols": 9, 
   "width": 256
 }
